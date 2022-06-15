@@ -1,6 +1,6 @@
 import dearpygui.dearpygui as dpg
 import model
-# ["USD - US Dollar", "EUR - Euros"] ,default_value="USD - US Dollar"
+
 dpg.create_context()
 dpg.create_viewport(title='Currency Converter', width=600, height=300)
 
